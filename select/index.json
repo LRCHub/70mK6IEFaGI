@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心の空",
+  "base_artist": "嵐",
+  "createdAt": "2026-03-22T12:39:03.803627Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心の空",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_心の空_嵐.txt"
+    }
+  ]
+}
